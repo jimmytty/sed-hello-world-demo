@@ -1,0 +1,9 @@
+* Hello World
+
+This is a /Hello World Demo/ with two solutions.
+
+To test this demo just clone this repository and run:
+
+#+BEGIN_SRC bash :results output
+  bats test-hello-world.bats
+#+END_SRC
